@@ -1,5 +1,5 @@
 {
-    "name": "text",
+    "name": "zahrawi-text",
     "version": "0.0.1",
     "description": "An AMD loader plugin for loading text resources. Forked from requirejs text",
     "categories": [
