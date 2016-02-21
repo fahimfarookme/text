@@ -1,18 +1,15 @@
 {
     "name": "zahrawi-text",
     "version": "0.0.1",
-    "description": "An AMD loader plugin for loading text resources. Forked from requirejs text",
+    "description": "An AMD loader plugin for loading text resources. Forked from https://github.com/requirejs/text",
     "categories": [
         "Loader plugins"
     ],
-    "main": "text.js",
-    "github": "https://github.com/requirejs/text",
-    "bugs": {
-        "web": "https://github.com/requirejs/text/issues"
-    },
+    "main": "zahrawi-text.js",
+    "github": "https://github.com/fahimfarookme/text.git",
     "repository": {
         "type": "git",
-        "url": "https://github.com/requirejs/text.git"
+        "url": "https://github.com/fahimfarookme/text.git"
     },
     "licenses": [
         {
@@ -23,8 +20,5 @@
             "type": "BSD New",
             "url": "http://opensource.org/licenses/BSD-3-Clause"
         }
-    ],
-    "volo": {
-        "url": "https://raw.github.com/requirejs/text/{version}/text.js"
-    }
+    ]
 }
