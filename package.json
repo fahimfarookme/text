@@ -1,6 +1,6 @@
 {
     "name": "zahrawi-text",
-    "version": "0.0.1",
+    "version": "2.0.15",
     "description": "An AMD loader plugin for loading text resources. Forked from https://github.com/requirejs/text",
     "categories": [
         "Loader plugins"
