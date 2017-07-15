@@ -1,5 +1,8 @@
 {
   "name": "zahrawi-text",
   "version": "2.0.15",
-  "main": "zahrawi-text.js"
+  "main": "zahrawi-text.js",
+  "devDependencies": {
+    "zahrawi-text": "^2.0.15"
+  }
 }

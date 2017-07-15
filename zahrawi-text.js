@@ -299,7 +299,7 @@ define(['module'], function (module) {
                     } else {
                         // modified by fahim.
                         // passing the xhr instaed of xhr.responseText
-                        callback(xhr);
+                        callback(xhr.responseText);
                     }
 
                     if (masterConfig.onXhrComplete) {
